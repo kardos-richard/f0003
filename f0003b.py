@@ -1,0 +1,5 @@
+szulnap = ("1967-05-26")
+csilljegy = ("bak")
+vezetek = ("Györfi ")
+kereszt = ("Pál")
+print("A te neved  " + vezetek + kereszt + (" , születésnapod ") + szulnap + ("-án van és a csillagjegyed ") + csilljegy)
